@@ -11,5 +11,6 @@ class Solution {
             answer = n/7;
         }
         return answer;
+        
     }
 }
