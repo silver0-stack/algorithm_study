@@ -1,3 +1,5 @@
+package jiyoungpark;
+
 import java.util.*;
 
 class Solution {
