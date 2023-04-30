@@ -1,4 +1,3 @@
-package jiyoungpark;
 
 class Solution {
     public int[][] solution(int[] num_list, int n) {
