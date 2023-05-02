@@ -1,4 +1,3 @@
-package jiyoungpark;
 
 import java.util.Scanner;
 
